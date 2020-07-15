@@ -1,6 +1,18 @@
-%% Calculo de las referencias para el SAPC en estado estacionario
+% The following code computes the values of the states at the operating point 
+% reported in "Robust Control for Shunt Active Power Filters: 
+% A Dynamical Model-based Approach with VerifiedControllability", 
+% by Jorge-Humberto Urrea-Quintero, Jesús M. López-Lezama
+% Nicolás Muñoz-Galeano, Energies, 2020.
 
-clc; clear all; close all;
+% It is a .m file, and therefore it is meant to be used on Matlab.
+
+% Code written by: Jorge-Humberto Urrea-Quintero.
+% 2020
+
+%%
+clear all;
+close all;
+clc;
 %%
 
 RL = 1;
