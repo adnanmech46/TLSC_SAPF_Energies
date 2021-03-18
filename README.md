@@ -29,3 +29,9 @@ Three inner PI controllers are implemented to regulate SAPF active, in quadratur
 </p>
 
 ---
+
+# References
+
+Please cite this code with:
+
+Urrea-Quintero, J. H., Muñoz-Galeano, N., & López-Lezama, J. M. (2020). Robust Control of Shunt Active Power Filters: A Dynamical Model-Based Approach with Verified Controllability. Energies, 13(23), 6253.
