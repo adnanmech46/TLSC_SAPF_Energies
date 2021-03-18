@@ -13,7 +13,7 @@ This repository presents the implementation of the PI controllers to reproduce t
 The TLSC SAPF model, after **dq0** transformation, is given by: 
 
 <p align="center">
-  <img align="middle" src="./Img/dq0SAPFModel.png" alt="SAPF model" height="450"/>
+  <img align="middle" src="./Img/dq0SAPFModel.png" alt="SAPF model" height="150"/>
 </p>
 
 <!---
