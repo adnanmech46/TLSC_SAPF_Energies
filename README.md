@@ -5,7 +5,7 @@ This repository presents the implementation of the PI controllers to reproduce t
 ---
 
 <p align="center">
-  <img align="middle" src="./Img/graphicalAbstract_SAPF_Energies.svg" alt="Graphical abstract"/>
+  <img align="middle" src="./Img/GraphicalAbstract.png" alt="Graphical abstract"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@ Three inner PI controllers are implemented to regulate SAPF active, in quadratur
 ---
 
 <p align="center">
-  <img align="middle" src="./Img/FigPIControllersPerformanceComparison.pdf" alt="Graphical abstract"/>
+  <img align="middle" src="./Img/SAPFRobustControl.png" alt="Graphical abstract"/>
 </p>
 
 ---
