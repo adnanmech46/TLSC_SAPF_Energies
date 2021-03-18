@@ -23,6 +23,9 @@ The TLSC SAPF model, after **dq0** transformation, is given by:
 Three inner PI controllers are implemented to regulate SAPF active, in quadrature, and zero current components. An outer PI controller is implemented to indirectly regulate DC-link voltage through the direct current componen.  
 
 ---
+# Results
+
+Following picture shows how PI controllers perform when the SAPF is operated in the closed-loop mode. It is observed that the designed controllers are able to track current references while keeping the DC-link voltage regulated.
 
 <p align="center">
   <img align="middle" src="./Img/ControllersPerfComparison.png" alt="Controllers performance comparison" height="450"/>
